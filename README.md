@@ -1,4 +1,4 @@
-# Preact TypeScript starter project
+# Preact TypeScript with HTM & Sass / SCSS support starter project
 
 ## Documentation
 
@@ -10,7 +10,7 @@
 ## Usage
 
 ```bash
-$ npx preact-cli create typescript my-project
+$ npx preact-cli create Matthbo/preact-ts-htm-scss my-project
 $ cd my-project
 $ npm install
 $ npm run dev
